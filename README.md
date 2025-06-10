@@ -26,3 +26,6 @@ During the development phase, I frequently used quickref.me as a valuable resour
 
 so i conclude by saying that this task has given me the oppertunity to understand the basics of the front end web dovelopment 
 
+
+## output :
+
