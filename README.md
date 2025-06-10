@@ -8,6 +8,8 @@
 
 *DOMAIN NAME* : FRONTEND WEB DEVELOPMENT
 
+*DURATION* : 4-WEEKS
+
 *MENTOR NAME* : NEELA SANTHOSH
 
 ## Project Description: Interactive Quiz Application
