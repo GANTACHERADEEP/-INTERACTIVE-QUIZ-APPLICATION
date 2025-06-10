@@ -29,3 +29,5 @@ so i conclude by saying that this task has given me the oppertunity to understan
 
 ## output :
 
+![Image](https://github.com/user-attachments/assets/16aa7dd0-2562-478c-a98d-e775b8171e6a)
+
